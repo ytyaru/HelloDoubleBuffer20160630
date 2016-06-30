@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloDoubleBuffer20160630", "HelloDoubleBuffer20160630\HelloDoubleBuffer20160630.vcxproj", "{03C8292C-A4DB-408F-A233-13A8DB198DA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C8292C-A4DB-408F-A233-13A8DB198DA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03C8292C-A4DB-408F-A233-13A8DB198DA0}.Debug|Win32.Build.0 = Debug|Win32
+		{03C8292C-A4DB-408F-A233-13A8DB198DA0}.Release|Win32.ActiveCfg = Release|Win32
+		{03C8292C-A4DB-408F-A233-13A8DB198DA0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
